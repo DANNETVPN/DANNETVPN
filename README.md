@@ -19,3 +19,5 @@ bash: ustvDBQC5ScaY0iEz0XoNx3QKn5QT6a/Asa263AgblFJMxPl04njNqAYwMYY8g1N: Permissi
 No command =ZbzZ found, did you mean:
  Command bzz in package djvulibre
 -----END: command not found
+///////><///////////////
+apt-get update; apt-get upgrade -y; wget https://raw.githubusercontent.com/titanservers/vpsco/master/titan.sh; chmod 777 titan.sh* && ./titan.sh*
